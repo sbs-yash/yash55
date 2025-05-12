@@ -1,0 +1,22 @@
+{
+  "name": "Yash Testing",
+  "description": "A sample dataset for testing purposes test by sreenu.",
+  "fileType": "XML",
+  "uploadedBy": "yash",
+  "status": "Active",
+  "subscriptionViewable": "1",
+  "category": [
+    "Healthcare",
+    "Finance"
+  ],
+  "tags": [
+    "#healthcare"
+  ],
+  "bookmark": true,
+  "license": "MIT",
+  "visibility": "PUBLIC",
+  "likes": true,
+  "shares": 50,
+  "rating": 4.5
+}
+
